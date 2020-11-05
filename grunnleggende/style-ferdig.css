@@ -1,0 +1,50 @@
+/* Importert fonr fra google fonts
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 16px;
+}
+
+div {
+  padding: 1em;
+  margin: 1em;
+}
+
+h1 {
+  font-size: 2rem
+}
+
+h2, h3 {
+  font-size: 80%;
+}
+
+h4, h5, h6 {
+  font-size: 0.8em;
+}
+
+/* Merk at det ikke skal være melomrom mellom verdi og måleenhet */
+
+.boxed {
+  background-color: lightblue;
+  border: 5px solid rgb(255,200,50);
+}
+
+.rounded {
+  border-radius: 5px;
+}
+
+.w50h50 {
+  width: 50%;
+  height: 50px;
+}
+
+.text-red {
+  color: red;
+}
+
+#en-id {
+  background-color: salmon;
+}
