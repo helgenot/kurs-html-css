@@ -1,0 +1,83 @@
+
+/* Dette er en kommentar  ellers så er det fortsatt en kommentar */
+
+/* fonter */
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,400&display=swap');
+
+body {
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+}
+
+/* setter h1 til 3 rtem for å se hvordan det blir */
+
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  letter-spacing: 0.3em;
+  line-height: 3em;
+  text-transform: uppercase;
+}
+
+/*
+.text-uppercase {
+  text-transform: uppercase;
+}
+*/
+
+p {
+  font-weight: 400;
+}
+
+/* Bilder */
+
+.bilde {
+  width: 50%;
+}
+
+.lenke {
+  text-decoration: none;
+  font-weight: 700;
+  letter-spacing: 2em;;
+}
+
+.button {
+  border: 1px solid green;
+  background-color: lightgreen;
+  padding:1em 2em;
+}
+
+
+.bakgrunn {
+  background-image: url(butterfly-2049567.jpg);
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  background-attachment: fixed;
+  width: 100%;
+  height: 40vh;
+}
+
+.overliggende-tekst {
+  text-align: center;
+  padding-top: 20vh;
+  color: white;
+}
+
+#brodtekst {
+  color: red;
+}
+
+
+.hovedmeny > ul > li {
+  list-style-type: none;
+  display: inline;
+  padding: 1em;
+  margin: 1rem;
+}
+
+
+.card {
+  margin: 1em;
+}
