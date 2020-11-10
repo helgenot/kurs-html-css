@@ -83,12 +83,14 @@ p {
   max-width: 1200px;
   background: yellow;
   display: block;
-  margin: 1rem auto;
+  margin: 0 auto;
+  float: none;
 }
 
 .card {
   background: orange;
   width: 33%; 
+  display: inline-grid;
 }
 
 .card h3 {
@@ -114,6 +116,7 @@ p {
   text-align: center;
   color: white;
 }
+
 
 
 
