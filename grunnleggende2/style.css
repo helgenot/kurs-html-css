@@ -13,10 +13,10 @@ body {
 /* setter h1 til 3 rtem for å se hvordan det blir */
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
   font-weight: 700;
   letter-spacing: 0.3em;
-  line-height: 3em;
+  line-height: 1.2em;
   text-transform: uppercase;
 }
 
@@ -73,11 +73,71 @@ p {
 .hovedmeny > ul > li {
   list-style-type: none;
   display: inline;
-  padding: 1em;
+  padding: 1em ;
   margin: 1rem;
 }
 
+/* Stiling av kort følger */
+
+.container {
+  max-width: 1200px;
+  background: yellow;
+  display: block;
+  margin: 1rem auto;
+}
 
 .card {
-  margin: 1em;
+  background: orange;
+  width: 33%; 
 }
+
+.card h3 {
+  text-align: center;
+  font-size: 2rem;
+  padding: 1em;
+  font-weight: 700;
+  color: rgba(0,0,200,1)
+}
+
+.card hr {
+  width: 33%;
+  border-style: solid;
+
+}
+
+.card p {
+  padding: 2em 3em;
+}
+
+.card .pris {
+  font-weight: 900;
+  text-align: center;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
