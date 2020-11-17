@@ -1,0 +1,91 @@
+h1 {
+  font-size: 2rem;
+}
+
+.larger {
+  font-size: 3rem;
+}
+
+.larger:hover {
+  color: red;
+}
+
+.button {
+  background-color: green;
+  color: aliceblue;
+  transition: 0.3s all;
+}
+
+.button:hover, .button:active {
+  background-color: salmon;
+  color: blueviolet;
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+  color: darkgray;
+}
+
+p:last-of-type {
+  color: red
+}
+
+p:first-of-type {
+  color: blueviolet;
+}
+
+p:nth-of-type(even) {
+  font-weight: bold;
+}
+
+p::before {
+  content: ' ² ';
+  color: green;
+  font-size: 5rem;
+
+}
+
+p::after {
+  content: ',-';
+}
+
+.button2 {
+  text-transform: uppercase;  
+  background-color: indianred;
+  border: 2px solid red;
+  padding: 0.5em 1em;
+  color: white;
+  text-decoration: none;
+  transition: 300ms all;
+}
+
+.button2:hover {
+  background-color: lawngreen;
+  border-color: green;
+  transition: 1000ms all;
+  box-shadow: 0 5px 10px black;
+  color: blueviolet;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  

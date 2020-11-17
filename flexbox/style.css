@@ -1,0 +1,27 @@
+.flexbox {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.h-center {
+  display: block;
+  margin: 0 auto;
+  background-color: red;
+  width: 10%;
+}
+
+.box {
+/*   width: 4rem; */
+  /* height: 4rem; */
+  padding: 2rem;
+  background: yellow;
+  margin: 1rem;
+}
