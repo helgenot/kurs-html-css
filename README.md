@@ -33,3 +33,14 @@ https://www.w3schools.com/html/html_intro.asp
 Introduksjon til CSS:
 
 https://www.w3schools.com/css/css_intro.asp
+
+
+## Css accordion:
+
+https://codepen.io/raubaca/pen/PZzpVe
+
+## css Flexbox
+
+https://jst.hashnode.dev/complete-css-flex-tutorial?v=hash
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
