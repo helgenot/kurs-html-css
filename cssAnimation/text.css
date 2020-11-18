@@ -1,0 +1,51 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+#wrapper {
+	background-color: #051E3E;
+	height: 100vh;
+	color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+#hi {
+	animation: pulse 8s; 
+}
+
+@keyframes pulse {
+	0% {
+	color: #051E3E;
+	}
+	10% {
+		color: #051E3E;
+	}
+	30% {
+		color: white;
+	}
+	50% {
+		color: #051E3E;
+	}
+	60% {
+		color: #051E3E;
+	}
+	80% {
+		color: white;
+	}
+	100% {
+		color: red; 
+	}
+}
+
+#hi:after {
+	content: "How do you like it?";
+	animation: spin 8s linear;
+}
+
+@keyframes spin {
+  0% { content:"Hi"; }
+  100% { content:"How do you like it?"; }
+}
