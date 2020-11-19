@@ -44,3 +44,7 @@ https://codepen.io/raubaca/pen/PZzpVe
 https://jst.hashnode.dev/complete-css-flex-tutorial?v=hash
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+## CSS animation eksempel (tekst)
+
+https://stackoverflow.com/questions/42236440/change-text-with-a-css3-animation
