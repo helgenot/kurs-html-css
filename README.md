@@ -48,3 +48,9 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 ## CSS animation eksempel (tekst)
 
 https://stackoverflow.com/questions/42236440/change-text-with-a-css3-animation
+
+## Ascii koder for å sette inn spesialtegn
+
+https://www.tutorialspoint.com/html/html_ascii_codes.htm
+
+
