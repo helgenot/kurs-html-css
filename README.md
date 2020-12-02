@@ -57,3 +57,7 @@ https://www.tutorialspoint.com/html/html_ascii_codes.htm
 ## Stegvis guide til å bruke fonter fra Google fonts
 
 https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-design-project-e1ad48f1adfa/#:~:text=1)%20Go%20to%20the%20Google,visit%20the%20“featured”%20page.
+
+## Videre lesning
+
+https://refactoringui.com/
