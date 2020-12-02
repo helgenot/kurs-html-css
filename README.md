@@ -71,4 +71,6 @@ https://codepen.io/nathantaylor/pen/KaLvXw
 https://minocernota.com/articles/pure_css_game/
 
 
+## Lage et tilpasset kart:
 
+https://snazzymaps.com/
