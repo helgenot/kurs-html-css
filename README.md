@@ -64,3 +64,11 @@ https://www.freecodecamp.org/news/how-to-use-google-fonts-in-your-next-web-desig
 
 https://refactoringui.com/
 
+https://codepen.io/jackiezen/pen/WMavEV
+
+https://codepen.io/nathantaylor/pen/KaLvXw
+
+https://minocernota.com/articles/pure_css_game/
+
+
+
