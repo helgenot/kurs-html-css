@@ -47,6 +47,24 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 http://flexboxfroggy.com/
 
+## Media queries
+
+Merk at vi heller vil bruke Grid da det er langt mer fleksibelt enn media queries, og Gridbegynner å bli støttet av del fleste nettlesere
+
+https://www.w3schools.com/css/css_rwd_mediaqueries.asp
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries
+
+## CSS Grid
+
+Lag layout basert på grid i css
+
+https://css-tricks.com/snippets/css/complete-guide-grid/
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
+
+https://www.w3schools.com/css/css_grid.asp
+
 ## CSS animation eksempel (tekst)
 
 https://stackoverflow.com/questions/42236440/change-text-with-a-css3-animation
