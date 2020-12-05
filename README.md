@@ -73,6 +73,10 @@ https://stackoverflow.com/questions/42236440/change-text-with-a-css3-animation
 
 https://www.tutorialspoint.com/html/html_ascii_codes.htm
 
+## Legge til favicon på siden:
+
+https://realfavicongenerator.net/
+
 
 ## Stegvis guide til å bruke fonter fra Google fonts
 
