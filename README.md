@@ -47,6 +47,10 @@ https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 http://flexboxfroggy.com/
 
+## visuelle småtriks for å få ting itl å se bedre ut
+
+https://denic.hashnode.dev/css-tips-you-wont-see-in-most-tutorials
+
 ## Media queries
 
 Merk at vi heller vil bruke Grid da det er langt mer fleksibelt enn media queries, og Gridbegynner å bli støttet av del fleste nettlesere
