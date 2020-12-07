@@ -12,6 +12,10 @@ Introduksjon til CSS:
 
 https://www.youtube.com/embed/dC34rfY8Eyk
 
+Videre om position:
+
+https://youtu.be/DUNc0Ea6sc8
+
 
 ## Referanser:
 
