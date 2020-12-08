@@ -101,6 +101,10 @@ https://codepen.io/nathantaylor/pen/KaLvXw
 https://minocernota.com/articles/pure_css_game/
 
 
+## CSS variabler. Praktisk når man leger størr nettsteder
+
+https://secretgeek.net/var_hue
+
 ## Lage et tilpasset kart:
 
 https://snazzymaps.com/
