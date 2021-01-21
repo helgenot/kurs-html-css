@@ -104,7 +104,7 @@ https://codepen.io/nathantaylor/pen/KaLvXw
 https://minocernota.com/articles/pure_css_game/
 
 
-## CSS variabler. Praktisk når man leger størr nettsteder
+## CSS variabler. Praktisk når man lager større nettsteder
 
 https://secretgeek.net/var_hue
 
