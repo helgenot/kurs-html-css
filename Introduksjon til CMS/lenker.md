@@ -1,19 +1,25 @@
 ## Wordpress
 
 https://wordpress.org/
+
 https://wordpress.org/themes/
+
 https://wordpress.org/plugins/
 
 ## Drupal
 
 https://drupal.org/
+
 https://drupal.org/
+
 https://www.drupal.org/download
 
 ## rammeverk
 
 https://getbootstrap.com/
+
 https://get.foundation/sites/docs/
+
 https://tailwindcss.com/
 
 ## Sette opp LAMP stack (utviklermiljø) mac
