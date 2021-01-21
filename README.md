@@ -38,6 +38,9 @@ Introduksjon til CSS:
 
 https://www.w3schools.com/css/css_intro.asp
 
+Guide to modern CSS:
+
+https://kodius.com/blog/guide-to-writing-modern-css/
 
 ## Css accordion:
 
