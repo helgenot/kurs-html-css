@@ -38,6 +38,9 @@ Introduksjon til CSS:
 
 https://www.w3schools.com/css/css_intro.asp
 
+Guide to modern CSS:
+
+https://kodius.com/blog/guide-to-writing-modern-css/
 
 ## Css accordion:
 
@@ -101,7 +104,7 @@ https://codepen.io/nathantaylor/pen/KaLvXw
 https://minocernota.com/articles/pure_css_game/
 
 
-## CSS variabler. Praktisk når man leger størr nettsteder
+## CSS variabler. Praktisk når man lager større nettsteder
 
 https://secretgeek.net/var_hue
 
