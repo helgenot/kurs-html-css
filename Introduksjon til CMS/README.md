@@ -1,6 +1,6 @@
 ## Introduksjon til Wordpress
 
-For de som vil beynne med en gang så kan dere lage en grunnleggende side på wordpress.com hvor dere kan bynee å utforske de grunnleggende tingene med wordpress:
+For de som vil begynne med en gang så kan dere lage en grunnleggende side på wordpress.com og utforske de grunnleggende tingene med wordpress:
 https://wordpress.com/start/free/user?ref=pricing-lp
 
 ### Generell introduksjon til Wordpress:
@@ -14,8 +14,6 @@ https://www.youtube.com/watch?v=t2tchJrNw-Q
 https://www.youtube.com/watch?v=5qaREdYikPE (alternativ)
 
 https://kinsta.com/blog/twenty-twenty-one-theme/
-
-
 
 ## Wordpress generelt
 
