@@ -5,7 +5,13 @@ https://wordpress.com/start/free/user?ref=pricing-lp
 
 ### Generell introduksjon til Wordpress:
 
-https://www.youtube.com/watch?v=MsRhxl_zk5A
+https://www.youtube.com/watch?v=MsRhxl_zk5A (Noe lang video)
+
+https://wordpress.com/learn/ (Grei oversikt, mye fokusert mot wordpress.com)
+
+## Worpress begreper:
+
+https://wordpress.com/learn/glossary/
 
 ### Theming, tilpasset tema basert på twenttwentyone (WP standardtema)
 
@@ -22,6 +28,7 @@ https://wordpress.org/
 https://wordpress.org/themes/
 
 https://wordpress.org/plugins/
+
 
 
 ## Drupal
