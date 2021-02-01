@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=MsRhxl_zk5A (Noe lang video)
 
 https://wordpress.com/learn/ (Grei oversikt, mye fokusert mot wordpress.com)
 
-## Worpress begreper:
+## Wordpress begreper:
 
 https://wordpress.com/learn/glossary/
 
@@ -20,6 +20,10 @@ https://www.youtube.com/watch?v=t2tchJrNw-Q
 https://www.youtube.com/watch?v=5qaREdYikPE (alternativ)
 
 https://kinsta.com/blog/twenty-twenty-one-theme/
+
+## Wordpress menyer
+
+https://wordpress.com/support/menus/
 
 ## Wordpress generelt
 
