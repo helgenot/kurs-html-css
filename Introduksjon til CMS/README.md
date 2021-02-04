@@ -1,3 +1,7 @@
+## Gutenberg Blokker forklart:
+
+https://ithemes.com/wordpress-gutenberg-blocks-explained/
+
 ## Introduksjon til Wordpress
 
 For de som vil begynne med en gang så kan dere lage en grunnleggende side på wordpress.com og utforske de grunnleggende tingene med wordpress:
