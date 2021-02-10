@@ -1,6 +1,10 @@
 # kurs-html-css
 Kursfiler til bruk i undervisning HTML/CSS
 
+## Bøker
+
+I katalogen 'Bøker' ligger det noen bøker om css, html og javascript. Bøkene er litt utdatert, men har allikevel bra gunnleggende informasjon.
+
 
 ## Videoer:
 
