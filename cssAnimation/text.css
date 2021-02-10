@@ -41,11 +41,11 @@ body {
 }
 
 #hi:after {
-	content: "How do you like it?";
+	content: "Hvordan er dette?";
 	animation: spin 8s linear;
 }
 
 @keyframes spin {
-  0% { content:"Hi"; }
-  100% { content:"How do you like it?"; }
+  0% { content:"Halloen"; }
+  100% { content:"Hvordan går det?"; }
 }

@@ -1,3 +1,7 @@
+## Gutenberg Blokker forklart:
+
+https://ithemes.com/wordpress-gutenberg-blocks-explained/
+
 ## Introduksjon til Wordpress
 
 For de som vil begynne med en gang så kan dere lage en grunnleggende side på wordpress.com og utforske de grunnleggende tingene med wordpress:
@@ -5,7 +9,13 @@ https://wordpress.com/start/free/user?ref=pricing-lp
 
 ### Generell introduksjon til Wordpress:
 
-https://www.youtube.com/watch?v=MsRhxl_zk5A
+https://www.youtube.com/watch?v=MsRhxl_zk5A (Noe lang video)
+
+https://wordpress.com/learn/ (Grei oversikt, mye fokusert mot wordpress.com)
+
+## Wordpress begreper:
+
+https://wordpress.com/learn/glossary/
 
 ### Theming, tilpasset tema basert på twenttwentyone (WP standardtema)
 
@@ -15,6 +25,10 @@ https://www.youtube.com/watch?v=5qaREdYikPE (alternativ)
 
 https://kinsta.com/blog/twenty-twenty-one-theme/
 
+## Wordpress menyer
+
+https://wordpress.com/support/menus/
+
 ## Wordpress generelt
 
 https://wordpress.org/
@@ -22,6 +36,7 @@ https://wordpress.org/
 https://wordpress.org/themes/
 
 https://wordpress.org/plugins/
+
 
 
 ## Drupal
