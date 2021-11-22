@@ -5,7 +5,7 @@ Kursfiler til bruk i undervisning HTML/CSS
 
 I katalogen 'Bøker' ligger det noen bøker om css, html og javascript. Bøkene er litt utdatert, men har allikevel bra gunnleggende informasjon.
 
-## Greit utgangspunkt ofr selvstudie
+## Greit utgangspunkt for selvstudier
 
 Odin project:
 
