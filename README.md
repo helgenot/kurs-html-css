@@ -3,7 +3,7 @@ Kursfiler til bruk i undervisning HTML/CSS
 
 ## Bøker
 
-I katalogen 'Bøker' ligger det noen bøker om css, html og javascript. Bøkene er litt utdatert, men har allikevel bra gunnleggende informasjon.
+I katalogen [Bøker](https://github.com/helgenot/kurs-html-css/tree/master/b%C3%B8ker) ligger det noen bøker om css, html og javascript. Bøkene er litt utdatert, men har allikevel bra gunnleggende informasjon.
 
 ## Greit utgangspunkt for selvstudier
 
