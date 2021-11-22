@@ -5,6 +5,12 @@ Kursfiler til bruk i undervisning HTML/CSS
 
 I katalogen 'Bøker' ligger det noen bøker om css, html og javascript. Bøkene er litt utdatert, men har allikevel bra gunnleggende informasjon.
 
+## Greit utgangspunkt ofr selvstudie
+
+Odin project:
+
+https://www.theodinproject.com/
+
 
 ## Videoer:
 
@@ -92,6 +98,9 @@ https://www.tutorialspoint.com/html/html_ascii_codes.htm
 
 https://realfavicongenerator.net/
 
+## CSS variabler
+
+https://secretgeek.net/var_hue
 
 ## Stegvis guide til å bruke fonter fra Google fonts
 
@@ -107,10 +116,6 @@ https://codepen.io/nathantaylor/pen/KaLvXw
 
 https://minocernota.com/articles/pure_css_game/
 
-
-## CSS variabler. Praktisk når man lager større nettsteder
-
-https://secretgeek.net/var_hue
 
 ## Lage et tilpasset kart:
 
