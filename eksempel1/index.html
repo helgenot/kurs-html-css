@@ -12,21 +12,25 @@
 
 </head>
 <body>
-    <nav>
-        <logo>
+    <nav class="navbar">
+        <div class="logo">
             <!--husk å bruke den sorte logoen-->
-            <img src="images/palmbeach_black.png" alt="Logoen">
-        </logo>
-        <menu>
-        <ul>
-            <li><a href="#">Punkt 1</a></li>
-            <li><a href="#">Punkt 2</a></li>
-            <li><a href="#">Punkt 3</a></li>
-        </ul>
-        </menu>
+            <img class="logo-img" src="images/palmbeach_black.png" alt="Logoen">
+        </div>
+        <div class="menu">
+            <ul>
+                <li><a href="#">Punkt 1</a></li>
+                <li><a href="#">Punkt 2</a></li>
+                <li><a href="#">Punkt 3</a></li>
+            </ul>
+        </div>
     </nav>
     <hero>
-        <!-- her kommer et bilde -->
+        <!-- her kommer et bilde med tekst oppå -->
+        <div class="herofront">
+            <h2>Overskrift</h2>
+            <p>tekst under den</p>
+        </div>
     </hero>
     <main>
         <div> <!--omslutter teksten-->
@@ -34,7 +38,7 @@
             <p class="lead"> <!-- Ingress -->
                 Alle boligene, samt fellesarealene, er blitt nøye vurdert og utformet av våre dyktige arkitekter for å sikre optimal utforming og design, med fokus på kvalitet. 
             </p>
-            <p>
+            <p class="stortekst">
                 Kun materialer av beste kvalitet og moderne løsninger vil bli brukt for å sikre <strong class="lead">optimale løsninger</strong> både innvendig og utvendig. <br>
                 Alle boligene blir klargjort for installasjon av aircondition med varm og kald luft. <em>Utvendig basseng</em> vil bli oppvarmet med solcellepaneler for å ivareta de strenge energikravene til dagens boliger i Spania. Det vil bli lagt gulvvarme i gulv på bad
             </p>
@@ -47,7 +51,7 @@
 
 
     </main>
-    <footer>
+    <footer class="footer">
         <!--kontaktinfo-->
         <p>
             Adresse: <br>

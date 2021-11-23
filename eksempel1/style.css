@@ -4,22 +4,53 @@
 /* font-family: 'Comforter Brush', cursive; */
 /* font-family: 'Lato', sans-serif; */
 
-
+:root {
+    --green: #86754a;
+    --red: #d20d37;
+    --darkblue: hsb(209,100,42);
+    --blue: rgb(36,138,233) ;
+    --yellow: rgb(236,220,22);
+    --gold: rgb(108,81,10);
+    --offwhite: rgb(234,230,208):
+}
+   
 
 body {
     font-family: 'Lato', sans-serif;
     font-size: 16px;
+    margin: 0;
 }
 
-h1 {
+.w-100 {
+    width: 100vw;
+}
+
+.w-50 {
+    width: 40%;
+    display: inline-block;
+}
+
+.w-33 {
+    width: 33%;
+}
+
+.w-66 {
+    width: 66%;
+}
+
+.d-inlineblock {
+    display: inline-block;
+}
+
+.stortekst, .h1, h1 {
     font-family: 'Comforter Brush', cursive;
     font-size: 5rem;
-
 }
+
+
 
 p {
     font-size: 20px;
-    text-align: left;
     color:rgba(50,50,50,0.8);
 }
 
@@ -31,7 +62,82 @@ strong.lead {
     color: red;
 }
 
+.logo {
+    position: absolute;
+    top:0;
+    left: 3rem;
+}
+
+
+
+.logo-img {
+    width: 120px;
+    height: auto;
+    display: block;
+/*     min-width:200px;
+    max-width: 300px; */
+}
+
+.navbar {
+    background-color: rgb(108,81,10);
+    /* background: linear-gradient(90deg, rgb(100, 100, 104) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 70%); */
+    color: white;
+}
+
+a {
+    color: var(--blue);
+}
+
+.menu {
+    background-color: rgb(108,81,10);
+    padding: 2em;
+}
+
+.menu ul {
+    list-style-type: none; 
     
+}
+
+.menu > ul > li {
+    display: inline;
+    float: right;
+
+   
+}
+
+.menu > ul > li > a {
+    display: block;
+    padding: 8px;
+    color: white;
+    text-decoration: none;
+}
+
+
+/* .navbar menu {
+    display: inline-block;
+}
+
+.navbar li {
+    display: inline;
+    margin: 1rem 2rem;
+}
+
+.navbar ul {
+    text-align: right;
+} */
+
+.herofront {
+    background-image: url(Images/karusell-basseng.jpg);
+    min-height: 70vh;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+.herofront h2 {
+    padding-top: 30vh;
+    color: white;
+}
 
 
 
