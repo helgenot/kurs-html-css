@@ -42,7 +42,7 @@ body {
     display: inline-block;
 }
 
-.stortekst, .h1, h1 {
+.h1, h1 {
     font-family: 'Comforter Brush', cursive;
     font-size: 5rem;
 }
@@ -139,6 +139,15 @@ a {
     color: white;
 }
 
+
+.card {
+
+}
+
+.button {
+    padding: 1em;
+    background-color: var(--darkblue);
+}
 
 
 
