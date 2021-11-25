@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+.logo2 {
+
+}
+
+.logo2 img {
+    display: block;
+    margin: 0 auto;
+    min-width: 200px;
+    
+}
+
+.navbar2 {
+    background-color: tomato;
+}
+
+
+ .navbar2 ul {
+     display: flex;
+     list-style-type: none;
+     flex-direction: row;
+     justify-content: space-around;
+ }
+
+ .navbar2 ul li {
+    padding: 1rem;
+    background-color: yellowgreen;
+
+ }
